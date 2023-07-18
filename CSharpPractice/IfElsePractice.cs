@@ -65,20 +65,6 @@ namespace CSharpPractice
             return result;
         }
 
-        /// <summary>
-        /// Implement a method that takes an int age, string name, bool paidFees, bool background not clean, bool passedQuiz, bool passedDrivingTest
-        /// and returns a responding string in the following format if age is greater than 21, license fees are paid, background is cleared, quiz is passed and driving test is passed:
-        /// <name>, congratulations! You are eligible to drive. 
-        /// or with the following string: 
-        /// <name>, sorry, your license cannot be processed due to the following reason/reasons:<reason>
-        /// please apply again after <requirementsString>.
-        /// </summary>
-        /// <returns></returns>
-        public static string DMVResponse()
-        {
-            return "";
-        }
-
 
 
     }
